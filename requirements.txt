@@ -2,7 +2,7 @@ numpy
 scipy
 pandas
 scikit-learn
-lightgbm
-xgboost
 matplotlib
 seaborn
+torch
+datasets
